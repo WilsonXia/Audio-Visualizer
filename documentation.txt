@@ -1,0 +1,10 @@
+1) The first audio effect node is a high shelf BiquadFilter, which boosts the treble of the song.
+    The second audio effect node is a low shelf BiquadFilter, which boosts the bass of the song.
+
+2) The Sprite class (sprite.js) is a class that holds data on its x and y position, image, width, and height, and the scale it can resize to.
+
+3) The app data I placed in the json file would be the title, the tracklist, and the star sprite that scales depending on the audio data.
+
+4) I improved the aesthetics of the app by adding a curve and making a bar at the bottom of the canvas. I randomly placed stars that shrink and grow as well.
+They both change color depending on the audio data. I also improved the CSS on the controls box. 
+I think I at the very least deserve a 5% for these changes. 

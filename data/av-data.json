@@ -1,0 +1,22 @@
+{
+    "title": "Audio Visualizer",
+    "trackList": [
+        {"trackName" : "Among Us", 
+        "trackSrc" : "media/Among Us Drip Theme Song Original (Among Us Trap Remix  Amogus Meme Music).mp3", 
+        "background" : {"x" : 0, "y" : 0, "image" : "images/among-us-drip.jpg", "width" : 200, "height" : 200, "rotate" : 0}
+    },
+        {"trackName" : "Specter", 
+        "trackSrc" : "media/Alan Walker - We live we love we lie (The Spectre) (Lyrics).mp3", 
+        "background" : {"x" : 0, "y" : 0, "image" : "images/smurfCat.png", "width" : 200, "height" : 250, "rotate" : 0}
+    },
+        {"trackName" : "Mr. Beast", 
+        "trackSrc" : "media/mrbeast meme song  TikTok meme.mp3", 
+        "background" : {"x" : 0, "y" : 0, "image" : "images/mr-beast-pose.jpg", "width" : 300, "height" : 200, "rotate" : 0}
+    },
+        {"trackName" : "Krab Bop Channel", 
+        "trackSrc" : "media/Krab Bop Channel.mp3", 
+        "background" : {"x" : 0, "y" : 0, "image" : "images/spongebob-mr-crab.gif", "width" : 300, "height" : 200, "rotate" : 0}
+    }
+    ],
+    "star" : {"x" : 0, "y" : 0, "image" : "images/5star.png", "width" : 50, "height" : 50, "rotate" : 2}
+}
